@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6bfccdd916bc1647a5e126ca635bc43
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282962
+  packageName: Blur Shaders Pro for URP, HDRP & Built-in
+  packageVersion: 1.0.2
+  assetPath: Assets/Blur Shaders Pro/Packages/blur-shaders-pro-hdrp-v1.0.2.unitypackage
+  uploadId: 686933
